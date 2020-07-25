@@ -17,7 +17,7 @@ We have prepared a portable version of Reaper for Windows that will allow you to
 
 Inside the extracted folder you should see “PortableReaper”, “Projects” and a shortcut to the Reaper application
 
-![The extracted files](../images/reaper-shortcut)
+![The extracted files](../images/reaper-shortcut.png)
 
 ## Mac, Linux
 
