@@ -17,7 +17,7 @@ We have prepared a portable version of Reaper for Windows that will allow you to
 
 Inside the extracted folder you should see “PortableReaper”, “Projects” and a shortcut to the Reaper application
 
-![The extracted files](../images/reaper-shortcut.png)
+![The extracted files](./images/reaper-shortcut.png)
 
 ## Mac, Linux
 
@@ -31,7 +31,7 @@ You will also need to download and extract the projects.zip file
 
 When Reaper opens, you will see a message like the one below. If you wait for 5 seconds, the still evaluating option will become available in the bottom right corner
 
-![Reaper license message](../images/reaper-trial.png)
+![Reaper license message](./images/reaper-trial.png)
 
 Now it's time to check everything is setup correctly:
 
@@ -39,6 +39,6 @@ Now it's time to check everything is setup correctly:
 - Navigate to LWaudio/Projects/CrownHim and select the CrownHim project file.
 
 Your window should now look like this:
-![initial window layout](../images/initial-window.png)
+![initial window layout](./images/initial-window.png)
 
 - You can press “Spacebar” to play and stop the recording. Try this now and check that you can hear the music.
