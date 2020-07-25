@@ -34,7 +34,11 @@ To mix the song think about: volumes, panning, Eq, and other effects (reverb or 
 ![Pretty colours](../images/pretty-colours.png)
 
 ---
+
 [Home](../README.md)
+
 [Last page: intro to mixing](00-intro-to-mixing.md)
+
 [Next page: ?](?)
+
 ---

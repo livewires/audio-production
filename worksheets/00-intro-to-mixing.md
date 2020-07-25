@@ -116,8 +116,12 @@ Play around with the reverb and delay until you feel comfortable with what they 
 These aren’t tools that you will want for every song and are often kept quite subtle - it very much depends on the style of music but they are very common tools that it is good to have at your disposal.
 
 ---
+
+
 [Home](../README.md)
+
 [Next page: setting up a project](01-setting-up-project.md)
+
 ---
 
 ## Taking things further
