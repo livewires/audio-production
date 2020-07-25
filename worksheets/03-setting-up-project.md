@@ -1,4 +1,4 @@
-## Setting up a session
+# Setting up a session
 
 In the previous example, the project you opened was already set up and ready to go. Now you will set up a project from scratch with the recordings provided.
 
@@ -37,8 +37,8 @@ To mix the song think about: volumes, panning, Eq, and other effects (reverb or 
 
 [Home](../README.md)
 
-[Last page: intro to mixing](00-intro-to-mixing.md)
+[Last page: Reverb and Delay](02-reverb-delay.md)
 
-[Next page: ?](?)
+[Next page: Taking things further](04-taking-things-further.md)
 
 ---

@@ -8,7 +8,10 @@ The setup guides and worksheets for the [LiveWires](https://livewires.org.uk) au
 ## Sessions
 
 - [Mixing Basics](worksheets/00-intro-to-mixing.md)
-- [Setting up a Project](worksheets/01-setting-up-project.md)
+- [Eq](worksheets/01-eq.md)
+- [Reverb and Delay](worksheets/02-reverb-delay.md)
+- [Setting up a Project](worksheets/03-setting-up-project.md)
+- [Taking things further](worksheets/04-taking-things-further.md)
 
 
 ## About LiveWires

@@ -59,76 +59,10 @@ The drums were recorded in stereo so some of the cymbals are already spread a li
 
 ![Panning example](../images/panning-example.png)
 
-## Eq
-
-Now that the tracks are well balanced, we can start to apply effects to enhance them further. Eq is a very powerful tool that is used to adjust the sound of a track. For example we could use it to boost the low or high frequencies or perhaps cut a band of frequencies in the midrange.
-This becomes more clear when you try it, so I recommend having a play with the Eq plugin to listen to what happens.
-
-To add an effect to a channel, clip on the button labelled “FX” at the top of the track in the mixer view. This should bring up the window shown in the next image, which allows you to pick an effect to add to the track.
-The list of effects in Reaper is very long so I recommend that you select “All plugins” - “VST” on the left hand side to narrow the choice down slightly and make it easier to find the ones we will be using.
-
-In this case, select ReaEQ. Once you click add, the effects selection will be replaced by the Eq window. If you close this window and want to bring it up again then you can click on the box that will now say “ReaEQ” in the mixer view on the track you have just added the effect to.
-
-The top half of the Eq window shows a graph and the bottom half has a number of controls. You can control the plugin using either, but I find it easier to drag the points around on the graph most of the time.
-
-If you solo the track you have applied the effect to, set the music playing and start to drag the points around you should be able to hear the impact it has.
-
-![Insert plugin](../images/insert-plugin.png)
-
-Have a play with the Eq on a selection of tracks and get used to the way it works - you can use the “Add band” button to get more points on the graph to work with.
-You can click on the green “FX” button in the mixer view to turn the effect off and on to hear the sound with an without the Eq.
-
-See if you can use it to help particular tracks either blend in more or stand out more from the rest of the band.
-
-## Reverb and Delay
-
-Reverb and delay (echo) are effects that can add a sense of space to a recording. Often we want to apply them to more than one track, so it can be helpful to set up a separate track or “bus” for them and send other tracks to it.
-
-Create and name a new track “Reverb” in the same way that you did for the subgroup.
-Add the OrilRiver effect the same way as we previously added the ReaEQ.
-This time when setting up the routing, we want to leave “Master send” ticked.
-
-It should now look something like the picture below. Notice that a “Verb” send has appeared on the Vocal Group channel below the slots where effects normally appear.
-By clicking and dragging the control on the right of this send, you can change the amount of the vocal group being sent to the reverb effect. This is the best way to control how much reverb is applied to each channel.
-If you click and drag anywhere else on the Verb send, you can copy it to other tracks to send them to the reverb effect too.
-
-![Reverb send](../images/reverb-send.png)
-
-![Reverb plugin](../images/reverb-plugin.png)
-
-If you click on the OrilRiver plugin, its window will appear. If you click in the box at the top that says “Default”, you can find a range of different presets to try.
-I recommend listening to Large Room, Plate, Cathedral 1 and Deep cave to get an idea of what the reverb can do.
-Each time that you select a different preset, you should click the “Dry” button in the top left to make sure that it is lit up orange.
-
-You can set up a delay effect the same way by selecting ReaDelay instead of OrilRiver. (You might want to mute any reverb while you play with delay though)
-With delay I recommend setting it by hand rather than starting with the presets. The plugin should look like the image below:
-
-![Delay plugin](../images/delay-plugin.png)
-
-I first recommend pulling the dry control on the left all the way down to the bottom. You can then use the length control to set how quickly the echo repeats the original sound and the feedback to control how many times the echo repeats.
-
-To get a feel for the controls I suggest sending the vocal group to the delay with solo turned on.
-Good starting settings might be 2 ⅛ notes for length and between -10 and -15 for feedback.
-As before, you can change the send level to get more or less of the delayed sound.
-
-Play around with the reverb and delay until you feel comfortable with what they do. You could try them on a variety of tracks and see what happens when you change some of the other controls. You could even try sending delay to reverb or vice versa.
-
-These aren’t tools that you will want for every song and are often kept quite subtle - it very much depends on the style of music but they are very common tools that it is good to have at your disposal.
-
 ---
-
 
 [Home](../README.md)
 
-[Next page: setting up a project](01-setting-up-project.md)
+[Next page: Eq](01-eq.md)
 
 ---
-
-## Taking things further
-
-In the next session, we shall start to introduce more ideas and techniques, but if you would like to try what we have covered in this session with other recordings then this website has collections of tracks to download in a whole variety of genres.
-
-They are all professionally recorded and have a variety of track counts from just three or four to over 40. You can select based on genre and and listen to a preview clip of each song before downloading the tracks. (Scroll down to see the list)
-
-
-[Cambridge Music Technology Multi-track Library](https://cambridge-mt.com/ms/mtk/)
