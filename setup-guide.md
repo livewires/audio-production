@@ -17,7 +17,7 @@ We have prepared a portable version of Reaper for Windows that will allow you to
 
 Inside the extracted folder you should see “PortableReaper”, “Projects” and a shortcut to the Reaper application
 
-![The extracted files](images/reaper-shortcut)
+![The extracted files](../images/reaper-shortcut)
 
 ## Mac, Linux
 
@@ -31,7 +31,7 @@ You will also need to download and extract the projects.zip file
 
 When Reaper opens, you will see a message like the one below. If you wait for 5 seconds, the still evaluating option will become available in the bottom right corner
 
-![Reaper license message](images/reaper-trial.png)
+![Reaper license message](../images/reaper-trial.png)
 
 Now it's time to check everything is setup correctly:
 
