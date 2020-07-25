@@ -39,6 +39,13 @@ Now it's time to check everything is setup correctly:
 - Navigate to LWaudio/Projects/CrownHim and select the CrownHim project file.
 
 Your window should now look like this:
+
 ![initial window layout](./images/initial-window.png)
 
 - You can press “Spacebar” to play and stop the recording. Try this now and check that you can hear the music.
+
+
+---
+[Home](../README.md)
+[Next page: Session 1](00-intro-to-mixing.md)
+---
