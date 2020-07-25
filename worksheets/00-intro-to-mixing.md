@@ -19,7 +19,7 @@ The screen is divided into the track view and timeline in the top half and the m
 Each track has a mute button and a solo button as shown below. These allow you to choose not to hear certain tracks or only to hear certain tracks.
 For example you could listen to the instruments without the singers by muting the vocal tracks or listen to the guitar and bass by themselves by soloing them.
 
-![initial window layout](../images/ms-timeline.png) ![initial window layout](../images/ms-mixer.png)
+![Mute and solo buttons 1](../images/ms-timeline.png) ![Mute and solo buttons 2](../images/ms-mixer.png)
 
 ## Setting Levels
 
@@ -40,11 +40,11 @@ Double click where the name should be and name it something like “Vocal Group�
 
 To send a track to the new subgroup, click on the route button in the mixer view just below the mute and solo buttons:
 
-![initial window layout](../images/route-button.png)
+![Route button](../images/route-button.png)
 
 This will bring up the following window. To send the track through the subgroup first untick the “Master send” box in the top left, then use the “Add new send…” dropdown menu to select the group track you have just created.
 
-![initial window layout](../images/routing-window.png)
+![Routing window](../images/routing-window.png)
 
 Once all the tracks you want to include are sent to the subgroup, you can use it to mute, solo, change the volume or apply effects to everything in the group at once.
 
@@ -57,7 +57,7 @@ Have a play with the panning and find some placements that you like. Usually if 
 For example I have one of the singers left and another right in the picture below. You might like to try moving some of the instruments too.
 The drums were recorded in stereo so some of the cymbals are already spread a little to either side.
 
-![initial window layout](../images/panning-example.png)
+![Panning example](../images/panning-example.png)
 
 ## Eq
 
@@ -73,7 +73,7 @@ The top half of the Eq window shows a graph and the bottom half has a number of 
 
 If you solo the track you have applied the effect to, set the music playing and start to drag the points around you should be able to hear the impact it has.
 
-![initial window layout](../images/insert-plugin.png)
+![Insert plugin](../images/insert-plugin.png)
 
 Have a play with the Eq on a selection of tracks and get used to the way it works - you can use the “Add band” button to get more points on the graph to work with.
 You can click on the green “FX” button in the mixer view to turn the effect off and on to hear the sound with an without the Eq.
@@ -92,9 +92,9 @@ It should now look something like the picture below. Notice that a “Verb” se
 By clicking and dragging the control on the right of this send, you can change the amount of the vocal group being sent to the reverb effect. This is the best way to control how much reverb is applied to each channel.
 If you click and drag anywhere else on the Verb send, you can copy it to other tracks to send them to the reverb effect too.
 
-![initial window layout](../images/reverb-send.png)
+![Reverb send](../images/reverb-send.png)
 
-![initial window layout](../images/reverb-plugin.png)
+![Reverb plugin](../images/reverb-plugin.png)
 
 If you click on the OrilRiver plugin, its window will appear. If you click in the box at the top that says “Default”, you can find a range of different presets to try.
 I recommend listening to Large Room, Plate, Cathedral 1 and Deep cave to get an idea of what the reverb can do.
@@ -103,7 +103,7 @@ Each time that you select a different preset, you should click the “Dry” but
 You can set up a delay effect the same way by selecting ReaDelay instead of OrilRiver. (You might want to mute any reverb while you play with delay though)
 With delay I recommend setting it by hand rather than starting with the presets. The plugin should look like the image below:
 
-![initial window layout](../images/delay-plugin.png)
+![Delay plugin](../images/delay-plugin.png)
 
 I first recommend pulling the dry control on the left all the way down to the bottom. You can then use the length control to set how quickly the echo repeats the original sound and the feedback to control how many times the echo repeats.
 
@@ -148,7 +148,7 @@ To make things more pretty, you can right click on the tracks and find the track
 
 To mix the song think about: volumes, panning, Eq, and other effects (reverb or delay)
 
-![initial window layout](../images/pretty-colours.png)
+![Pretty colours](../images/pretty-colours.png)
 
 ## Taking things further
 
