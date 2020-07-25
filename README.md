@@ -2,6 +2,8 @@
 
 The setup guides and worksheets for the [LiveWires](https://livewires.org.uk) audio production course
 
+- [Setup guide](setup-guide.md)
+
 
 ## Sessions
 

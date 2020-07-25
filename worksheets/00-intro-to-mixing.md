@@ -1,9 +1,7 @@
 # Intro to Mixing
 
 In this sheet we start the process of mixing.
-Before starting on this please make sure you have downloaded Reaper and the project files as explained in the setup guide
-
-**Add links to setup guide!**
+Before starting on this please make sure you have downloaded Reaper and the project files as explained in the [setup guide](setup-guide.md)
 
 We are going to start by mixing a song that has already been loaded into Reaper.
 
