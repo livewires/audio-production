@@ -12,7 +12,7 @@ It will make a surprising difference to how well you can hear the more subtle de
 
 We have prepared a portable version of Reaper for Windows that will allow you to get going without having to install either Reaper or any plugins.
 
-- Go to the [LiveWires download site](Info.livewires.org.uk/lw2020/files)
+- Go to the [LiveWires download site](https://Info.livewires.org.uk/lw2020/files)
 - Download the PortableReaperForWindows.zip file
 - Dowload the Projects.zip file
 - Extract both the zip files
