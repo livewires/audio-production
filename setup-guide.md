@@ -12,10 +12,12 @@ It will make a surprising difference to how well you can hear the more subtle de
 
 We have prepared a portable version of Reaper for Windows that will allow you to get going without having to install either Reaper or any plugins.
 
-- Download the LWaudio.zip file
-- Extract the zip file
+- Go to the [LiveWires download site](Info.livewires.org.uk/lw2020/files)
+- Download the PortableReaperForWindows.zip file
+- Dowload the Projects.zip file
+- Extract both the zip files
 
-Inside the extracted folder you should see “PortableReaper”, “Projects” and a shortcut to the Reaper application
+Inside the extracted Reaper folder you should see a folder called “PortableReaper” and a shortcut to the Reaper application
 
 ![The extracted files](./images/reaper-shortcut.png)
 
@@ -23,7 +25,7 @@ Inside the extracted folder you should see “PortableReaper”, “Projects” 
 
 If you are not using Windows, you will need to download Reaper from [here](https://www.reaper.fm/download.php) and follow the instructions to install it.
 
-You will also need to download and extract the projects.zip file
+You will also need to download and extract the projects.zip file from the link given above
 
 (+ install reverb plugin?)
 
@@ -36,7 +38,7 @@ When Reaper opens, you will see a message like the one below. If you wait for 5 
 Now it's time to check everything is setup correctly:
 
 - Open Reaper and select “File - Open Project”.
-- Navigate to LWaudio/Projects/CrownHim and select the CrownHim project file.
+- Navigate to Projects/CrownHim and select the CrownHim project file.
 
 Your window should now look like this:
 
