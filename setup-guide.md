@@ -12,9 +12,8 @@ It will make a surprising difference to how well you can hear the more subtle de
 
 We have prepared a portable version of Reaper for Windows that will allow you to get going without having to install either Reaper or any plugins.
 
-- Go to the [LiveWires download site](http://Info.livewires.org.uk/lw2020/files)
-- Download the PortableReaperForWindows.zip file
-- Dowload the Projects.zip file
+- Download the [PortableReaperForWindows.zip file](https://scriptureunioncharity-my.sharepoint.com/:u:/g/personal/steveackroyd_scriptureunion_org_uk/EauTGTTLVDlAplu82VmYZnoBxHv_w7kE9JY4C2XYoa4oyA?e=BYrXLj)
+- Dowload the [Projects.zip file](https://scriptureunioncharity-my.sharepoint.com/:u:/g/personal/steveackroyd_scriptureunion_org_uk/EatFNqTG8pdAnDUdSlsBVbcB7korhw_PL8LsIJoauo5LMQ?e=lmccSA)
 - Extract both the zip files
 
 Inside the extracted Reaper folder you should see a folder called “PortableReaper” and a shortcut to the Reaper application
