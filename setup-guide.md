@@ -50,6 +50,4 @@ Your window should now look like this:
 
 [Home](README.md)
 
-[Next page: Session 1](./worksheets/00-intro-to-mixing.md)
-
 ---
