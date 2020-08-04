@@ -39,6 +39,6 @@ To mix the song think about: volumes, panning, Eq, and other effects (reverb or 
 
 [Last page: Reverb and Delay](02-reverb-delay.md)
 
-[Next page: Taking things further](04-taking-things-further.md)
+[Next page: Compression](04-compression.md)
 
 ---

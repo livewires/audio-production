@@ -11,7 +11,10 @@ The setup guides and worksheets for the [LiveWires](https://livewires.org.uk) au
 - [Eq](worksheets/01-eq.md)
 - [Reverb and Delay](worksheets/02-reverb-delay.md)
 - [Setting up a Project](worksheets/03-setting-up-project.md)
-- [Taking things further](worksheets/04-taking-things-further.md)
+- [Compression](worksheets/04-compression.md)
+- [Automation](worksheets/05-automation.md)
+- [Exporting a project](worksheets/06-exporting.md)
+- [Taking things further](worksheets/07-taking-things-further.md)
 
 
 ## About LiveWires
