@@ -6,7 +6,7 @@ This will bring up a window that looks like the picture below.
 The only settings you need to check are:
 - Source and Bounds at the very top - these should be set to Master mix and Entire project
 - Directory and File name - these set where it will be saved and what it will be called
-- Format - WAV is good for a high quality file. MP3 can be used instead if you want to have a smaller output file.
+- Format - We generally prefer to use MP3 to keep the file size small.
 
 Once you have checked each of these, you can click the “Render 1 file” button at the bottom and wait a few seconds for the render to complete before closing the render window.
 
