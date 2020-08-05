@@ -15,6 +15,7 @@ The setup guides and worksheets for the [LiveWires](https://livewires.org.uk) au
 - [Automation](worksheets/05-automation.md)
 - [Exporting a project](worksheets/06-exporting.md)
 - [Taking things further](worksheets/07-taking-things-further.md)
+- [Virtual instruments](worksheets/08-virtual-instruments.md)
 
 
 ## About LiveWires
