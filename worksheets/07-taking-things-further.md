@@ -14,6 +14,8 @@ They are all professionally recorded and have a variety of track counts from jus
 
 [Cambridge Music Technology Multi-track Library](https://cambridge-mt.com/ms/mtk/)
 
+Another thing you could try is adding your own parts using [virtual instruments](08-virtual-instruments.md)
+
 ---
 
 [Home](../README.md)
