@@ -34,6 +34,8 @@ When Reaper opens, you will see a message like the one below. If you wait for 5 
 
 ![Reaper license message](./images/reaper-trial.png)
 
+If you get a message asking you about an update, you can safely ignore and close the request - the update doesn't provide anything we'll be needing for this tech. 
+
 Now it's time to check everything is setup correctly:
 
 - Open Reaper and select “File - Open Project”.
