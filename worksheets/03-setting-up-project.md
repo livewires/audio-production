@@ -5,7 +5,7 @@ In the previous example, the project you opened was already set up and ready to 
 The song we shall mix this time is Glorious Christ. The band is the same (except for a change of singer) and you will find 8 tracks in the Projects folder.
 
 Start by opening a new project in Reaper “File - New Project“ or “Ctrl - N”.
-With a blank project open, you can select the tracks in the projects folder and drag and drop them into Reaper, or use "Insert - Media File" and select the audio files to import. Select the option to import them to separate tracks if asked.
+With a blank project open, you can use "Insert - Media File" and select the audio files to import or find the tracks in the projects folder outside of Reaper and drag and drop them into Reaper. Select the option to import them to separate tracks if asked.
 
 At this point it is a good idea to save the project so press “Ctrl - S”, navigate to the Projects folder, give your project a name and check that the boxes for “Create subdirectory for project” and “Move all media into project directory” are ticked.
 From this point on you can keep typing “Ctrl - S”, as you progress to ensure that the saved version is kept up to date.
