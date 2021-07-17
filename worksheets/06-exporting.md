@@ -14,10 +14,10 @@ Once you have checked each of these, you can click the “Render 1 file” butto
 
 ---
 
-[Home](../README.md)
+[Next page: Taking things further](07-taking-things-further.md)
 
 [Last page: Automation](05-automation.md)
 
-[Next page: Taking things further](07-taking-things-further.md)
+[Home](../README.md)
 
 ---

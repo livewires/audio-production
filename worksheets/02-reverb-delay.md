@@ -3,10 +3,11 @@
 Reverb and delay (echo) are effects that can add a sense of space to a recording. Often we want to apply them to more than one track, so it can be helpful to set up a separate track or “bus” for them and send other tracks to it.
 
 Create and name a new track “Reverb” in the same way that you did for the subgroup.
+This time when setting up the routing, we want to leave “Master send” ticked on the channels we are sending to the reverb channel. (Unless it is already unticked for a sub-group.)
 Add the OrilRiver effect the same way as we previously added the ReaEQ.
-This time when setting up the routing, we want to leave “Master send” ticked.
 
-It should now look something like the picture below. Notice that a “Verb” send has appeared on the Vocal Group channel below the slots where effects normally appear.
+
+It should now look something like the picture below. Notice that a “Verb” send has appeared on the Vocal Group channel below the slots where effects normally appear. (For the example in the picture, I shortened "Reverb" to "Verb".)
 By clicking and dragging the control on the right of this send, you can change the amount of the vocal group being sent to the reverb effect. This is the best way to control how much reverb is applied to each channel.
 If you click and drag anywhere else on the Verb send, you can copy it to other tracks to send them to the reverb effect too.
 
@@ -17,8 +18,10 @@ If you click and drag anywhere else on the Verb send, you can copy it to other t
 If you click on the OrilRiver plugin, its window will appear. If you click in the box at the top that says “Default”, you can find a range of different presets to try.
 I recommend listening to Large Room, Plate, Cathedral 1 and Deep cave to get an idea of what the reverb can do.
 Each time that you select a different preset, you should click the “Dry” button in the top left to make sure that it is lit up orange.
+"Wet" and "dry" refer to the sound with and without the effect added. The dry sound is the original and the wet is with the effect applied. 
 
-You can set up a delay effect the same way by selecting ReaDelay instead of OrilRiver. (You might want to mute any reverb while you play with delay though)
+You can set up a delay effect the same way as the reverb by selecting ReaDelay instead of OrilRiver. (Create and name a new track, then send other tracks to it.)
+You will probably find it easiest to mute any reverb while you play with delay though.
 With delay I recommend setting it by hand rather than starting with the presets. The plugin should look like the image below:
 
 ![Delay plugin](../images/delay-plugin.png)
@@ -35,10 +38,10 @@ These aren’t tools that you will want for every song and are often kept quite 
 
 ---
 
-[Home](../README.md)
+[Next page: setting up a project](03-setting-up-project.md)
 
 [Last page: Eq](01-eq.md)
 
-[Next page: setting up a project](03-setting-up-project.md)
+[Home](../README.md)
 
 ---

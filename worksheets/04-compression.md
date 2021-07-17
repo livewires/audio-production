@@ -23,10 +23,10 @@ It may be that you wanted the compressor to help make the quieter bits louder ra
 
 ---
 
-[Home](../README.md)
+[Next page: Automation](05-automation.md)
 
 [Last page: Setting up a project](03-setting-up-project.md)
 
-[Next page: Automation](05-automation.md)
+[Home](../README.md)
 
 ---

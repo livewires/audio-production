@@ -18,8 +18,8 @@ Another thing you could try is adding your own parts using [virtual instruments]
 
 ---
 
-[Home](../README.md)
-
 [Last page: Exporting up a project](06-exporting.md)
+
+[Home](../README.md)
 
 ---

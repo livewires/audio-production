@@ -12,7 +12,7 @@ From this point on you can keep typing “Ctrl - S”, as you progress to ensure
 
 The next few steps are to lay out the project in a clear and helpful way before we start mixing. This is optional but I find it helpful so that I can always find the track I want easily.
 
-First, I want to make all the tracks appear smaller in the timeline view so that I can see them all at once. To do this, you can bring my mouse over one of the tracks to the left, hold “Ctrl” and scroll down with the mousewheel. Alternatively you can place the mouse at the bottom of each track and click and drag to set the height for that track.
+First, I want to make all the tracks appear smaller in the timeline view so that I can see them all at once. To do this, you can bring your mouse over one of the tracks to the left, hold “Ctrl” and scroll down with the mousewheel. Alternatively you can place the mouse at the bottom of each track and click and drag to set the height for that track.
 
 To ensure the whole project fits into the timeline, place your mouse over one of the audio files on the timeline and scroll the mouse wheel down to zoom out.
 
@@ -35,10 +35,10 @@ To mix the song think about: volumes, panning, Eq, and other effects (reverb or 
 
 ---
 
-[Home](../README.md)
+[Next page: Compression](04-compression.md)
 
 [Last page: Reverb and Delay](02-reverb-delay.md)
 
-[Next page: Compression](04-compression.md)
+[Home](../README.md)
 
 ---

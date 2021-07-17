@@ -15,10 +15,10 @@ If you click on the label that says “Volume” in the left hand side, you will
 
 ---
 
-[Home](../README.md)
+[Next page: Exporting a project](06-exporting.md)
 
 [Last page: Compression](04-compression.md)
 
-[Next page: Exporting a project](06-exporting.md)
+[Home](../README.md)
 
 ---

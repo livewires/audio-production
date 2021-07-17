@@ -50,19 +50,20 @@ Once all the tracks you want to include are sent to the subgroup, you can use it
 
 ## Panning
 
-Once you are happy with the levels you have set, you can start to spread out the tracks from left to right with the pan control.
+Once you are happy with the levels you have set, you can start to spread out the tracks from left to right with the pan control (the knob in the coloured area of the mixer view).
 If you are wearing headphones then moving a track to one side will have a very noticeable effect. With speakers it is a little bit more subtle.
 
 Have a play with the panning and find some placements that you like. Usually if you move a track to one side it is helpful to move another to the other side to balance it.
 For example I have one of the singers left and another right in the picture below. You might like to try moving some of the instruments too.
-The drums were recorded in stereo so some of the cymbals are already spread a little to either side.
+You can double click the pan control to return it to the centre.
+The drums were recorded in stereo (with left and right microphones) so some of the cymbals are already spread a little to either side.
 
 ![Panning example](../images/panning-example.png)
 
 ---
 
-[Home](../README.md)
-
 [Next page: Eq](01-eq.md)
+
+[Home](../README.md)
 
 ---
