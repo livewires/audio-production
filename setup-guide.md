@@ -24,9 +24,7 @@ Inside the extracted Reaper folder you should see a folder called “PortableRea
 
 If you are not using Windows, you will need to download Reaper from [here](https://www.reaper.fm/download.php) and follow the instructions to install it.
 
-You will also need to download and extract the projects.zip file from the link given above
-
-(+ install reverb plugin?)
+You will also need to download and extract the projects.zip file from the link given above.
 
 ## Preparing for the first session
 
