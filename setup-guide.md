@@ -12,8 +12,8 @@ It will make a surprising difference to how well you can hear the more subtle de
 
 We have prepared a portable version of Reaper for Windows that will allow you to get going without having to install either Reaper or any plugins.
 
-- Download the [PortableReaperForWindows.zip file](https://scriptureunioncharity-my.sharepoint.com/:u:/g/personal/steveackroyd_scriptureunion_org_uk/EauTGTTLVDlAplu82VmYZnoBxHv_w7kE9JY4C2XYoa4oyA?e=BYrXLj)
-- Dowload the [Projects.zip file](https://scriptureunioncharity-my.sharepoint.com/:u:/g/personal/steveackroyd_scriptureunion_org_uk/EatFNqTG8pdAnDUdSlsBVbcB7korhw_PL8LsIJoauo5LMQ?e=lmccSA)
+- Download the [PortableReaperForWindows.zip file](https://scriptureunioncharity-my.sharepoint.com/:u:/g/personal/joelfergusson_scriptureunion_org_uk/ETYHFxtsKKdFlL2tiIUV8NIBHDTCPRwE70t7HY2oFxcb_w?e=4TFAGD)
+- Dowload the [Projects.zip file](https://scriptureunioncharity-my.sharepoint.com/:u:/g/personal/joelfergusson_scriptureunion_org_uk/EYhsSytnbeVKn2yefe2xPS4BVwn3KQGbaa-RWH1fer9VDw?e=2BUpZf)
 - Extract both the zip files
 
 Inside the extracted Reaper folder you should see a folder called “PortableReaper” and a shortcut to the Reaper application
